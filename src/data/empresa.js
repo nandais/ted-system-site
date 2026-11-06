@@ -19,6 +19,10 @@ export const empresa = {
     {
       titulo: "Inovação responsável",
       descricao: "Adoção de novas tecnologias com foco em segurança, sustentabilidade e resultados reais."
+    },
+    {
+      titulo: "Compromisso com resultados",
+      descricao: "Dedicação em compreender as necessidades de cada cliente, buscando soluções eficientes que gerem resultados positivos e duradouros."
     }
   ],
   publicoAlvo:
@@ -55,6 +59,14 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Odete Roitman",
+      cargo: "Diretora e gerente de projeto de tecnologia",
+      foto: "",
+      alt: "",
+      descricao: "Responsável pela liderança estratégica e gestão de projetos tecnológicos."
     }
+
   ]
 };
